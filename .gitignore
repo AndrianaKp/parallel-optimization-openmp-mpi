@@ -1,0 +1,8 @@
+*.o
+multistart_seq
+multistart_omp
+multistart_tasks
+multistart_mpi
+__pycache__/
+.venv/
+.DS_Store
